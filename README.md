@@ -9,7 +9,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Mucyo-chris/react-gemini-AI-.git
-git push -u origin main
+git push -u origin main https://github.com/Mucyo-chris/react-gemini-AI-.git
 …or push an existing repository from the command line
 git remote add origin 
 git branch -M main
