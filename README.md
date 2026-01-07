@@ -26,4 +26,5 @@ An intelligent school management system with:
 git clone https://github.com/yourusername/repo-name
 cd repo-name
 npm install
+
 npm start
