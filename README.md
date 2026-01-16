@@ -1,4 +1,4 @@
-WELCOME 
+WELCOME TO
 # 🚀 AI School Management System
 
 An intelligent school management system with:
