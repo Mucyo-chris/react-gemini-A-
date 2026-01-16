@@ -1,4 +1,4 @@
-WELCOME TO
+WELCOME TO GEMINI
 # 🚀 AI School Management System
 
 An intelligent school management system with:
