@@ -24,10 +24,10 @@ An intelligent school management system with:
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/yourusername/repo-name
+git clone https://github.com//repo-name
 cd repo-name
 npm install 
-npm start   
+npm start    
 
 
 
